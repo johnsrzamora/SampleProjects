@@ -1,0 +1,84 @@
+[
+    {
+        "date": "2019-09-01T00:00:00.000Z",
+        "item_id": "200SE30080000000702320201905280216",
+        "visible": 1,
+        "in_stock": 1,
+        "rating_reviewers": 0,
+        "website": "www.elgiganten.se",
+        "webshot_url": "https://detailwebshots.blob.core.windows.net/aks-ws/2019-08-31@200SE30080000000702320201905280216.png",
+        "price": 500
+
+    },
+    {
+        "date": "2019-09-02T00:00:00.000Z",
+        "item_id": "200SE30080000000702320201905280216",
+        "visible": 1,
+        "in_stock": 1,
+        "rating_reviewers": 0,
+        "website": "www.elgiganten.se",
+        "webshot_url": "https://detailwebshots.blob.core.windows.net/aks-ws/2019-08-31@200SE30080000000702320201905280216.png",
+        "price": 500
+
+    },
+    {
+        "date": "2019-09-03T00:00:00.000Z",
+        "item_id": "200SE30080000000702320201905280216",
+        "visible": 1,
+        "in_stock": 1,
+        "rating_reviewers": 90,
+        "website": "www.amazon.co.uk",
+        "webshot_url": "",
+        "price": 200
+    },
+    {
+        "date": "2019-09-04T00:00:00.000Z",
+        "item_id": "200SE30080000000702320201905280216",
+        "visible": 1,
+        "in_stock": 1,
+        "rating_reviewers": 90,
+        "website": "www.amazon.co.uk",
+        "webshot_url": "",
+        "price": 200
+    },
+    {
+        "date": "2019-09-05T00:00:00.000Z",
+        "item_id": "200SE30080000000702320201905280216",
+        "visible": 1,
+        "in_stock": 1,
+        "rating_reviewers": 91,
+        "website": "www.amazon.co.uk",
+        "webshot_url": "",
+        "price": 200
+    },
+    {
+        "date": "2019-09-01T00:00:00.000Z",
+        "item_id": "200GBG0070000000040800201901180332",
+        "visible": 1,
+        "in_stock": 1,
+        "rating_reviewers": 91,
+        "website": "www.amazon.co.uk",
+        "webshot_url": "",
+        "price": 400
+    },
+    {
+        "date": "2019-09-02T00:00:00.000Z",
+        "item_id": "200GBG0070000000040800201901180332",
+        "visible": 1,
+        "in_stock": 1,
+        "rating_reviewers": -1,
+        "website": "www.amazon.fr",
+        "webshot_url": "https://detailwebshots.blob.core.windows.net/aks-ws/2019-09-14@200FR71080000000589960201905170708.png",
+        "price": 400
+    },
+    {
+        "date": "2019-09-03T00:00:00.000Z",
+        "item_id": "200GBG0070000000040800201901180332",
+        "visible": 1,
+        "in_stock": 1,
+        "rating_reviewers": -1,
+        "website": "www.amazon.fr",
+        "webshot_url": "https://detailwebshots.blob.core.windows.net/aks-ws/2019-09-14@200FR71080000000589960201905170708.png",
+        "price": 300
+    }
+]
